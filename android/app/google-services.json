@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342561379886",
+    "project_id": "treeplantationdrive",
+    "storage_bucket": "treeplantationdrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342561379886:android:371116e1a4bfcd0a9ef1bf",
+        "android_client_info": {
+          "package_name": "com.zed.treeplantationdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342561379886-j1h0pac3r89b57culk6pafulr87oj8q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUv0vGGAwQiRa7uS53hVeNDQcH7MxnVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342561379886-j1h0pac3r89b57culk6pafulr87oj8q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
